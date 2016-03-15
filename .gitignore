@@ -1,10 +1,4 @@
 *
-!/rinux
-!/rinux/arch
-!/rinux/arch/arm
-!/rinux/arch/arm/kernel
-!/rinux/arch/arm/kernel/calls.S
-
 !/linux-3.10-sc7730
 !/linux-3.10-sc7730/arch
 !/linux-3.10-sc7730/arch/arm
