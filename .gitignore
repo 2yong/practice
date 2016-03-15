@@ -19,4 +19,4 @@
 !/linux-3.10-sc7730/include/linux/
 !/linux-3.10-sc7730/include/linux/syscalls.h
 
-!.gitignore
+!/linux-3.10-sc7730/.gitignore
